@@ -1,0 +1,23 @@
+{
+    "name": "test/helloworld",
+    "description": "this is a composer package test by:poklau",
+    "type": "library",
+    "require": {
+        "gregwar/captcha": "^1.1"
+    },
+    "require-dev": {
+        "gregwar/captcha": "^1.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pok Lau",
+            "email": "747364155@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Yzm\\": "src/Yzm"
+        }
+    }
+}
