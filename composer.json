@@ -1,6 +1,7 @@
 {
     "name": "poklau/yzm",
     "description": "this is a composer package test by:poklau",
+    "version": "1.0.1",
     "type": "library",
     "require": {
         "gregwar/captcha": "^1.1"
