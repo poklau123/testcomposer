@@ -1,5 +1,5 @@
 {
-    "name": "test/helloworld",
+    "name": "poklau/yzm",
     "description": "this is a composer package test by:poklau",
     "type": "library",
     "require": {
